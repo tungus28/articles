@@ -1,5 +1,4 @@
-my_project
-==========
+Symfony 3.4 project
+===================
 
-A Symfony project created on October 27, 2018, 4:23 pm.
-# articles
+Web site for notes and articles
